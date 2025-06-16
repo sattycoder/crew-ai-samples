@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# crew-ai-samples
-CrewAI Introduction and Learning Projects
-=======
+
 ## Modules
 
 ### 1. Code Execution Module
@@ -76,4 +73,3 @@ The project utilizes several custom tools:
 - Code Interpreter Tool: For executing and analyzing code
 - Gmail Tool: For email processing and communication
 - Additional CrewAI tools for specific tasks
->>>>>>> 770627c (Initial commit - CrewAI Sample Projects)
